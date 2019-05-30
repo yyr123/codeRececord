@@ -1,0 +1,16 @@
+{
+  "name": "__",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:hz199/__.git",
+  "author": "H.Z <15738818183@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "sh": "bash deploy.sh"
+  },
+  "devDependencies": {
+    "vuepress": "^0.14.11"
+  }
+}
